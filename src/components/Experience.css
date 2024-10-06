@@ -1,0 +1,26 @@
+.experience {
+    background-color: #d2ef75;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .experience-item {
+    border-bottom: 1px solid #282424;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .experience-item p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+  .experience-item:last-child {
+    border-bottom: none;
+  }
+  

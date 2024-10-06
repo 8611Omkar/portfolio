@@ -1,0 +1,13 @@
+.about {
+    background-color: #c8d795;
+    text-align: center;
+  }
+  
+  .about p {
+    font-size: 1.1rem;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
